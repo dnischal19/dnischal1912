@@ -1,0 +1,26 @@
+{
+  "name": "Brandon Warren",
+  "age": 42,
+  "address": {
+    "street": "Ravep Square",
+    "city": "Kemandi",
+    "state": "TX",
+    "zip": "65263"
+  },
+  "contact": {
+    "phone": "(585) 681-7633",
+    "servicePhone": "800269226"
+  },
+  "birthday": "1966-11-26T17:36:28.142Z",
+  "ip": "244.253.30.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Bogu va eje ohtoceh zento potlu vohilod melel cacnowu sedeppo wulof jo. Wiuh weeda zimimli ritjac esgagzoz dabesam ivdeno vok tuni mid ocu pefgabgif zolohdi ruk. Koibi ze sun dueve ec get zeshi wol wo jakug anuoh siohe vavve vil wesli unoeg gupezcew. Catokiku komloda tun upnu poffonu deza datihoc worafsah kag enocak gag kufasted. Reccuon woc gocab unoad bod duiwiiz lu zuos ezcil vuddud migabrit voahukob uwa gehepe.",
+    "bio": "Koca bu uku enizu uhu culum durursu jof tummuc ralej abranos jos uja bora cehva tulmotoc zop. Jog sale bejur uwepibi ac pulete tag gamukfi vomzun rusroab mefig isa duuk uko di cahapfa ro nupufhu. Kum poptat ti egicuhpu cerazen loh segeve siude jopawo sir pomot zov hewupuk."
+  },
+  "apiKey": "8585bd8ea2671a66fe5fb2fdedbbc56e5f4242cbfabbedf441093fe26ce784f0",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
