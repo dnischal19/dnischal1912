@@ -1,0 +1,26 @@
+{
+  "name": "Barbara Walters",
+  "age": 24,
+  "address": {
+    "street": "Hife Point",
+    "city": "Birumefi",
+    "state": "AL",
+    "zip": "16608"
+  },
+  "contact": {
+    "phone": "(236) 508-3621",
+    "servicePhone": "800458341"
+  },
+  "birthday": "2004-04-06T17:15:16.452Z",
+  "ip": "24.79.190.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Os ojalamo tuk ob rim dak up abaat hore woz redte jejle idwejol. Encivzit teg iko suizfip agu ibu icejod enafa obgup losohuze zoza ujre hefpon upoab wup vufav daneb. Reh tuba wucu nujolvu nokec amo umbunni ceitdol betnibi abewehni dukcefzib is sampu noor cina duc.",
+    "bio": "Pakogip focik bummit hene liwpi beuza moawa ri rici faca eli val hovo ahaip hagive. Apisid delnorah pirfacek hep lo waslapsur esfow zawetrit hog dirubpug ba ekokopino han ide lakobmo. Riprorhe ib ha novopi naeso omzon sukuj hug zik mit vumehi olu pujof ju. Ruhtus ugimop ikonus ukaror if buseh iv gak dama nev raf ipoaftam on."
+  },
+  "apiKey": "5fbc4ef22aa82997df985d4b986238c929588961eb76f9fe63b9cf0acb0d2aa2",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
