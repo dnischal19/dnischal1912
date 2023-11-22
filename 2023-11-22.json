@@ -1,0 +1,26 @@
+{
+  "name": "Willie Leonard",
+  "age": 41,
+  "address": {
+    "street": "Kered Plaza",
+    "city": "Lominge",
+    "state": "ND",
+    "zip": "77652"
+  },
+  "contact": {
+    "phone": "(357) 316-3977",
+    "servicePhone": "800168617"
+  },
+  "birthday": "1981-02-26T03:00:15.247Z",
+  "ip": "176.204.27.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Bigjamdin ab pune tap wev lavim jaksibewe fatur muaz luwjecvo gilofko emoewo. Si paobu lokci rapovwi seczon ro ur be hirba so vugewu raci kecfevna. Hurolal fobrozzu codachaf tapo fo cernap re wab idiik hop pet rewrawven. Ug dovare ribod reh jan cuvsi ce ruiweoto cuwis ib tulot nam vuhowfaf so gi co padaboc. Dieri siduwemuc upgelgeg ema ket tebor ackughip pum ojiwotvo eha me umuaghu tol rev. Zij hav vuiska mu retzusac vehmota kem za ifbov ikcechi camumi fog uj jepca zedeal veewehum cooju. Mamez noboni ka ramzefaw dopjerti suem sem olfu poso apu anekoza hopej foc une.",
+    "bio": "Sapinkal je mucmomi tom lukadru nek ruzzev coghewew lot utpeda ec voh loofara ac wi. Zan oc hocovaz lifsoc vumu uhopa ese kekoki umiik cuklekej viza igratev giun samus nekakdec be. Zeim dobhanbeg bal fuje vawijeh cit onruv efeebdis mi difkifar pefe he kuonnu zejvezhu imsuugo ziih ze leeba."
+  },
+  "apiKey": "bf21eb34a8bb791bc8c0f5df043a0ff6eac821bf05f2938e9f4b1dc37b4d7d26",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
