@@ -1,0 +1,26 @@
+{
+  "name": "Phillip Nelson",
+  "age": 58,
+  "address": {
+    "street": "Hojar Turnpike",
+    "city": "Lugerut",
+    "state": "NJ",
+    "zip": "78611"
+  },
+  "contact": {
+    "phone": "(788) 742-9735",
+    "servicePhone": "800461483"
+  },
+  "birthday": "1988-11-24T23:36:12.285Z",
+  "ip": "165.228.44.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Zorow artetoh ozefaz su pet zaona boboddak fojsodi veizod zujfela mobomsuj zof. Welu jusa ketahim wif cawuc ze lelim nul zesvacze jej hiho ime uhovi imbi ka jig si. Gahcin hakjehdi ubav dijfe hicriza dadrugu pa pardobca dijroru wigsi ve zul hod is jocdav.",
+    "bio": "Neto zikmowo acrizvo usevubus gaha betfu idvucze ujegu wiapova widmaw jacvidnu buprabto. Puvan se ojozelfa zokape afurecu geubane masduetu zu zuagu inihog upba zozoka bif geztuh caih. Adcuk jibo ju icmesa moubvi zogro awi mifsu fa nohevoz bopa hul dewi abalapar bu cublecef."
+  },
+  "apiKey": "09372d55efea0ac3e88817433d35134ad012bd79d7dda42a0423d4021e5fcde2",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
