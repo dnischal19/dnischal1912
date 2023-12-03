@@ -1,0 +1,26 @@
+{
+  "name": "Gilbert Barrett",
+  "age": 29,
+  "address": {
+    "street": "Fofriz Road",
+    "city": "Sebapo",
+    "state": "NJ",
+    "zip": "29638"
+  },
+  "contact": {
+    "phone": "(747) 909-7571",
+    "servicePhone": "800888139"
+  },
+  "birthday": "1988-05-27T02:24:55.759Z",
+  "ip": "151.17.73.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Zapichak iho ti suvup poblu waana du matgihu ludje cuhgaf heb lunki zejutjop pok. Zuawo duzeb ro atu vusdon ifjaome herapa liesare wek hu cinkif guslub rockowwa co vu duta ise. Ovwo atpi zukov cih rado nu nistut sos zogodak wowov da garajkap.",
+    "bio": "Cidkasop zedok suhbep fecwawik waguuwe ge pih vazgifi rapahbig mogip uha go bupmad. Afegekma feola fulge bis ze fozuceb hozaboruc zilufumo giode aza seped laj ubza re tideb noole. Isoduzi sarpa dokde ri gu meaz vukiwe rudu efvepud di ico iwe. Mefal tukfumun wultotu pekjer fumef tezo dab du gefnin wiir uz ruge cowka ruvcogge. Ji weh hep ubezum pucovih safiggip buhnez fugveb poc ro mo eboras segefuwi tok celtuk."
+  },
+  "apiKey": "6454d5f4835457d321ba015891efa46d93cb9c06ffb612c3580548d92cd8d7ef",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
