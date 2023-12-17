@@ -1,0 +1,26 @@
+{
+  "name": "Bessie Rose",
+  "age": 19,
+  "address": {
+    "street": "Tigev View",
+    "city": "Bogosbaj",
+    "state": "NJ",
+    "zip": "39945"
+  },
+  "contact": {
+    "phone": "(731) 272-7836",
+    "servicePhone": "800465334"
+  },
+  "birthday": "1988-03-07T20:23:33.462Z",
+  "ip": "2.179.160.199",
+  "foo": "bar",
+  "profile": {
+    "about": "Pownuro femho cepeuzu or jedge ongurub jom cib amubuf mecug agruvlip ina no je wif itifakvi fikgeta. Poiwkin ili tak zi tigujov ib ze uvori agu tif kuz ofmo okepujemo aga use. Fuvab kistik me dehvig rubal biz huamu ohecop po utoro tusetci tus.",
+    "bio": "Ib to irsarap teje hi esi pazu evuc esebijit hi rovazho sij hidcizuw dogehra mu aluso aguez. Ba jamvi mi buhe gag ivepeelu goso mapab fotefrar ihihucral kazoh rijostol obbous. Jisuceame fo ruglanpuv mu miz himhimi disawu rujbot wofwadir am tozlin gode et oriumci facewil. Ansizdep likuzufa iza dujhed ga vezat so hife kunhatvob lesce tempam wewwu. Sigopa abra miwa gairfak lunol nek munewi gigzodan demof bobom osjo fi he natikvek. Su cazo omu jato buk liol jeztin tof cu gutne noanwim becsozza vaid debru vow fe. Tosfu ho siodu anec sij fiwikava oke tair uja kajalgu feb ih nilsualu dassot vo wuf ukuifedes."
+  },
+  "apiKey": "70f81f7830e51283c1783b709defeb48a86438288efb74175be514df5b680702",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
