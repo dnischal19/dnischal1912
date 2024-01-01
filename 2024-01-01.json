@@ -1,0 +1,26 @@
+{
+  "name": "Manuel Johnson",
+  "age": 21,
+  "address": {
+    "street": "Cuel View",
+    "city": "Dogetwe",
+    "state": "VT",
+    "zip": "77852"
+  },
+  "contact": {
+    "phone": "(643) 841-2991",
+    "servicePhone": "800566112"
+  },
+  "birthday": "1979-05-12T18:36:47.386Z",
+  "ip": "100.107.120.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Lezpatla nusro jeleak dasulupig gunve moj mozsim mone fat usiukwe busluoze najuj duk nereri hisekif teknohok orisul. Bijivudi reub ipdid morova gemwocar vef omnuf cadugga ecuwu wusofuh ro beira. Hi awzatsa vaw iz didati fazeva awauwowu mih pudovkuk uzoripeb pugozu bavial.",
+    "bio": "Tu mu ava tan kivfat neizdi cokon vecrurcuw magivi cevva ilonioc da. Egza mi ligji lisuiv mezgevzi poru kugbi ihzoize des odudehitu jen vurehir copmop mivijok. Inata sarunti wufje manuf kag kedku tu sisatab wuzumca oglohze gorcelor zoinesev kiomaoku la ukegezeb upoazifa turok. Foncabat fu ukep nohif rohinagus fesupu me hol umima apufegef sozhim uva ri fot."
+  },
+  "apiKey": "4bd0ae028b08101da0598824a1d28862eb452c1f47cc44865cb41c0b5a30c60e",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
