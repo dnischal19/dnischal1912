@@ -1,0 +1,26 @@
+{
+  "name": "Ellen Webster",
+  "age": 35,
+  "address": {
+    "street": "Eberil Boulevard",
+    "city": "Zanwaju",
+    "state": "OH",
+    "zip": "43562"
+  },
+  "contact": {
+    "phone": "(885) 650-6967",
+    "servicePhone": "800935922"
+  },
+  "birthday": "1972-08-26T06:31:40.549Z",
+  "ip": "246.78.205.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Koz du dakafrup bi miilikor romu ho woba kopdow huk fi penvag run kot ma laow. Balkec pamsap avbaegi abe sot ju ib voeduje ucuon jaw aw hiz emaoge mire bojkahu. Cinu pi gob migam vu mor kizi vud he nonwubmig dodut me ketbu.",
+    "bio": "Zow cu duw wurvu pez tuzi ma con veuf guwvu vu zihiw nacojop ehomumju teula. Nud nas kimu ci co juv va re zorevceg ehalaala kupe suwja sojwoim fizoivo be ircujwus moca. Lezla viv pol sav di go zicdopbem azluzo novjozsu vedojlo lov nawte jaflub izetiacu niknu zogneefu wubcot beagzu. Sereso zun mikfog ownavon cefinuf zidwo or gawe hob ejikankuf nuwni wi cinet coz kih juzu."
+  },
+  "apiKey": "2f12c7a2570689c30593587dafcb96cfcbc11ecff17bf78ae6713c828fd8894d",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
