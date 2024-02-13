@@ -1,0 +1,26 @@
+{
+  "name": "Madge Dean",
+  "age": 22,
+  "address": {
+    "street": "Mogto Key",
+    "city": "Sosunal",
+    "state": "AR",
+    "zip": "73904"
+  },
+  "contact": {
+    "phone": "(988) 710-9029",
+    "servicePhone": "800267558"
+  },
+  "birthday": "1994-09-22T07:59:13.157Z",
+  "ip": "212.115.112.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Odap lisom nunepu ta ti wo sa rarvozloh tino bor ho tug sujufoc nigima galmuj fesakeh uw. Lu ubupof ehiir woece vib fegrimnu vi erejec hoaba wibe mu vi ze. Hiosu rore roni soan zoire cuduwet waweki tigacve kito wempono radpitnah pozvet ajiof. Eke dulmu vifipcow zolij lap deh umfooje mulmeci azuem ce kameuw ivohu rimofer hagjacgo tabaraj fuofo.",
+    "bio": "Emigil husam udpo piwcite og codefabig ni bogsontu gosiwjam fa izli zib. Lakipla upolimma zuwe dudzige ujwer loolzo wuw fa riuv jewbikfip kim ipuulwow vebcel fu. Hekivnuf uvivito ziepi monewol wikuh ojbas uhu jawipeda colseame ropohgu waro jiedri."
+  },
+  "apiKey": "0f0a9cf637962a3d494f403a5c94ab90c671f6a6a31cf6021aa9a6e00773c667",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
