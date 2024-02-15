@@ -1,0 +1,26 @@
+{
+  "name": "Helen Manning",
+  "age": 36,
+  "address": {
+    "street": "Ullav Highway",
+    "city": "Sinehuvec",
+    "state": "MI",
+    "zip": "57397"
+  },
+  "contact": {
+    "phone": "(827) 969-6910",
+    "servicePhone": "800131537"
+  },
+  "birthday": "1976-06-30T23:15:37.145Z",
+  "ip": "67.240.245.12",
+  "foo": "bar",
+  "profile": {
+    "about": "Tokfahica wadte jajik en goc kupalota cej rupohkoj vuec otacowsec wud go su fosha ceihpi. Ur aw evogiva ijtu mim dahaj logopit noge sah ib bocez baw hibwet. Ini gejom vo nu cugiblab lew izefankod dalo petpag gejas taw zuzop uhavoro wa wooc sifepe omtajis dudjob.",
+    "bio": "Ja usjivsu li lezeh ga hi sanerdec huj dulbim tol nackojzo anuceaf demicri ruw testaor hi misu. Hahig kef aj riwahte ukipibir ji rutedhod jet cav mawrevto fecpo varipup mokri zik lopiag. Juzob leir uziupigi suvzu avuosome kiditi kizzig aruot aderof fanweczat mebti ipalev titsamti leficba offu."
+  },
+  "apiKey": "33671aeb484d070a6eb8426093a3377f129db49ac5839ed9f796aecbb98d0586",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
