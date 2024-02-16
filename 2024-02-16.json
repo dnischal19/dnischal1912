@@ -1,0 +1,26 @@
+{
+  "name": "Austin Farmer",
+  "age": 28,
+  "address": {
+    "street": "Geddat Parkway",
+    "city": "Gelefo",
+    "state": "TX",
+    "zip": "44614"
+  },
+  "contact": {
+    "phone": "(300) 757-5681",
+    "servicePhone": "800964984"
+  },
+  "birthday": "1977-06-08T15:17:31.175Z",
+  "ip": "146.110.105.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Rijife ev okmog reit liaci zohujwuh niv ori geggihag roz dimajo kiete jafas vudecu. Wujonhec feoj wojvotve zutwuh rurgev ovawefoni fehejiv atnoni varackew neckadoj ewimure foval mofo. Ki jefiume lu fom afma imo vavelak pakrevsin dejun ziguj suj tob baggotsus ejuba vonjew. Tetpejga nizlak poldu aghairo evifo zavuluh ir ajojoc do gesiru sevru du.",
+    "bio": "Omu sospije imunal epohav wawtam feejwe nerkomvu daw oge mijmem nenfolo zu eszak uczomub lar gile wufe. Paco su su pi aca zetij dir ava jat epre wivbipcis newo jaw dertiiwu iksi re uku. Olceafa befuko of vuhvas muaguza re rutorihip memacga zedu duris epko ti vowla ufi kap fuglec."
+  },
+  "apiKey": "7926fd6ae42602d8734835d1b9616598491d7139911064fdc451d77242e289fb",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
