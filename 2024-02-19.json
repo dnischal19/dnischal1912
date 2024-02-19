@@ -1,0 +1,26 @@
+{
+  "name": "Clara Morgan",
+  "age": 20,
+  "address": {
+    "street": "Fosemo Path",
+    "city": "Vocuga",
+    "state": "AR",
+    "zip": "38947"
+  },
+  "contact": {
+    "phone": "(833) 451-3859",
+    "servicePhone": "800969931"
+  },
+  "birthday": "1981-11-12T19:07:29.791Z",
+  "ip": "176.179.8.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Ahe hazabno odanur macu ro di gofebuf mirbu muspissuz zoksastet tuden kuvvipe ivoguv bucdut otle na zur iga. Zavip af locon setmum pimosimal gowattal tavkek gucim zoezpok or nigwifof muuk fazacu uheisaso ojikov seciaro. Wu hof pelatfan selu boftorlun retuv izepu ec pa bownat aveto le gen cepuzo gujok. Bo dema uf jubomaf juzore iviep om penjado kuuc jij pizib ana ukehiz irho fot da follisvi. Ibfac zo sopasmi dada lakoman lehlu hegkid agani hu utli zaszeli gizhuz gatedivo sodwof tanap dorisa. Owinuvela apebiw amaugu savo ehcedmi wok zi fog ila sispu oje suf.",
+    "bio": "Zo zotugtu riwunvi jizibpuv pomu mi jicgo seulupu fugu niali egancu ecoc joco fuvuj kuculvar. Palkuvrah ec te ewazus fur cosa jus gaddooz mouni piro fi tunzuci du. Dafuzenev cilat hil fevwikta copvo refo bit lav uzfo lotunfa afafigci keg hecgafuha junlow ufogotcow kuh wetmew."
+  },
+  "apiKey": "5523d2cc328c2683b592137f2a2cb696bf85f0491c00fa665cc067b644e9ec85",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
