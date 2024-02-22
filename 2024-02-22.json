@@ -1,0 +1,26 @@
+{
+  "name": "Alvin Singleton",
+  "age": 33,
+  "address": {
+    "street": "Kotcol Court",
+    "city": "Luzugfo",
+    "state": "WV",
+    "zip": "73380"
+  },
+  "contact": {
+    "phone": "(527) 376-7613",
+    "servicePhone": "800273543"
+  },
+  "birthday": "1964-07-29T22:53:26.381Z",
+  "ip": "148.14.62.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Se avofa cijvez gawba ibiicaaw meawpef egaemuin vot iho uhfow mapvi kemridez zatagke cipbuc fufgev calzem. Gitizaba te nasup ej cehuh egowotco sopi guad wap baola pa uwomovol baonu. Guifgev umtirkuk kievi acomocom wugoz tatjiuk bumu gawnor omtat zedbacome kewobzag nedgiivi melow fa ga.",
+    "bio": "Fer vuro olipezdu wapjus vula mimjosav luajlat la kal bu padka wiamwa ci muwbon datwebsa lehbut. Behnek sumil ru judag duj fumhan kinwaw od bo locja geena cuvimo vi oke. Lopu gig ohucelot meciw vidicup lubnake ke tetinla ceva irhajfu gidesjoj tuk hiocos."
+  },
+  "apiKey": "79b84119e9b6c77d7ad766fa194f2829c0338d11882e1fba9b66a38b8affa663",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
