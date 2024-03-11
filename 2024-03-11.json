@@ -1,0 +1,26 @@
+{
+  "name": "Blake Banks",
+  "age": 21,
+  "address": {
+    "street": "Batas Turnpike",
+    "city": "Cojrulat",
+    "state": "RI",
+    "zip": "88662"
+  },
+  "contact": {
+    "phone": "(662) 821-8660",
+    "servicePhone": "800467155"
+  },
+  "birthday": "1975-03-16T23:19:55.870Z",
+  "ip": "194.211.157.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Decbu esebatot valzipwok pib jeste kurgiza lule ir liggu kif cub meva lewumhu jupiwza wegif al efteh ogkugod. Vu pothaoco burbegip se ohaoce mekjokuk niplir foube peep jod uzatebu zijgo tute wi itod garig ut ruropi. Jumzi silvelve ozabiot pesemur mu zi reok iv jebal hes hotigkam kihfibiv. Gengo adsi cuagaw utwacew mullo lulakolu ervud tocjuv veehe uwaevimuw palo efi ili. Te ev rijka hi wacipiv ow utaf tomurko usitu pew mofte vedve hubzamoj sow nejlol japuuz vevuwur. Zojapu gan sobrak piac jiwosgi urevo huil razvu aknag nu hamodrom efgu fajviko bip. Kis ru gisazu ug focroc cuj ohgod suca mupmeor imiw tuetu riwiuvi luhkiz seppuczoh tecisdej.",
+    "bio": "Lo bazu pez doj il zuku gob ekbu cen ez moszo wam vujobaw ufjubi. Igjof cuhameda japcisa zawtipi ve teuga denuhwap wu niwehe ir jionuuka jajufeh huc wi fedri maup juakco pamezmu. Poleme ra si telur uflo dad kuge sabozi pu mohulfu bo igneac gurezgeb pa jejciwbil bif fihhif. Mi cinijtes idizih cuzos worbuw ju tufarhe re haubatar ka jumice gele fujveira metuni les deahu midu duce. Kupgoge von ewu kec zidemuna ilinatbif enromep kukuvte kokze mego guwom wiracbo at jiihede socwi bow."
+  },
+  "apiKey": "a578a8e15b04c20451e5f56a91a95b3733425f1097c14da24f00d36a9230871a",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
